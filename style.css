@@ -1,0 +1,25 @@
+body {
+  background-color: gray;
+}
+.container {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+  gap: 20px;
+  background-color: black;
+  width: 33vw;
+  border-radius: 20px;
+}
+#hrs {
+  text-align: center;
+  color: white;
+}
+#min {
+  text-align: center;
+  color: white;
+}
+#sec {
+  text-align: center;
+  color: white;
+}
